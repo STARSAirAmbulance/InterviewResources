@@ -1,0 +1,46 @@
+{
+  "data": {
+    "crews": [
+      {
+        "type": "Transport Physician",
+        "name": "Michael George",
+        "base": "Calgary",
+        "phone": "15552123334"
+      },
+      {
+        "type": "Transport Physician",
+        "name": "George Michael",
+        "base": "Edmonton",
+        "phone": "15552123333"
+      },
+      {
+        "type": "Air Medical Crew",
+        "name": "Linda John and Kathleen Brant",
+        "base": "Edmonton",
+        "phone": "15552123335"
+      },
+      {
+        "type": "Air Medical Crew",
+        "name": "Zach Franks and Adam Cook",
+        "base": "Calgary",
+        "phone": "15552123336"
+      },
+      {
+        "type": "Pilots",
+        "name": "Tom Cruise and Renée Zellweger",
+        "base": "Edmonton",
+        "phone": "15552123337"
+      },
+      {
+        "type": "Pilots",
+        "name": "Angelina Jolie and Brad Pitt",
+        "base": "Calgary",
+        "phone": "15552123338"
+      }
+    ],
+    "shiftStart": "2024-12-16 07:00:00",
+    "shiftEnd": "2024-12-16 19:00:00"
+  },
+  "responseCode": 200,
+  "errorMessage": null
+}
